@@ -1,0 +1,5 @@
+payload:
+  # 内容: ウマ娘 プリティーダービー API 服务器
+  # 说明: 此规则涵盖由 Cygames 运营的 ウマ娘 プリティーダービー 手游所用到的 API 服务器。此规则不包括用于下载资源所用的 CDN 服务器。
+  # 数量: 1 条
+  - DOMAIN-SUFFIX, api-umamusume.cygames.jp

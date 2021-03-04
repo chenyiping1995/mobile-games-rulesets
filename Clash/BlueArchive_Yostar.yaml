@@ -1,0 +1,6 @@
+payload:
+  # 内容: ブルーアーカイブ 服务器
+  # 说明: 此规则涵盖由 Yostar 运营的 ブルーアーカイブ 手游所用到的服务器。
+  # 数量: 2 条
+  - DOMAIN-SUFFIX, bluearchiveyostar.com
+  - DOMAIN-SUFFIX, bluearchive.jp
