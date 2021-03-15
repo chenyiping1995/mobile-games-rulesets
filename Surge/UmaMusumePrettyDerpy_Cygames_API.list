@@ -2,3 +2,5 @@
 DOMAIN-SUFFIX, api-umamusume.cygames.jp
 DOMAIN-SUFFIX, prd-storage-umamusume.akamaized.net
 DOMAIN-SUFFIX, umamusume.jp
+USER-AGENT, umamusume
+PROCESS-NAME, umamusume
