@@ -4,3 +4,4 @@ DOMAIN-SUFFIX, prd-storage-umamusume.akamaized.net
 DOMAIN-SUFFIX, umamusume.jp
 USER-AGENT, umamusume
 PROCESS-NAME, umamusume
+PROCESS-NAME, jp.co.cygames.umamusume
