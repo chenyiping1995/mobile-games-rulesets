@@ -2,8 +2,8 @@ payload:
   # 内容: ウマ娘 プリティーダービー API/CDN 服务器
   # 说明: 此规则涵盖由 Cygames 运营的 ウマ娘 プリティーダービー 手游所用到的 API 服务器和 CDN 下载服务器。
   # 数量: 5 条
+  - PROCESS-NAME, umamusume.exe
+  - PROCESS-NAME, jp.co.cygames.umamusume
   - DOMAIN-SUFFIX, api-umamusume.cygames.jp
   - DOMAIN-SUFFIX, prd-storage-umamusume.akamaized.net
   - DOMAIN-SUFFIX, umamusume.jp
-  - PROCESS-NAME, umamusume.exe
-  - USER-AGENT, umamusume
