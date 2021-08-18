@@ -1,4 +1,5 @@
 # > Uma Musume Pretty Derby API/CDN server(s)
+DOMAIN-SUFFIX, web-omotenashi-1776346575.ap-northeast-1.elb.amazonaws.com
 DOMAIN-SUFFIX, api-umamusume.cygames.jp
 DOMAIN-SUFFIX, prd-storage-umamusume.akamaized.net
 DOMAIN-SUFFIX, prd-storage-app-umamusume.akamaized.net
