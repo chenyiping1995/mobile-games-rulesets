@@ -4,6 +4,7 @@ payload:
   # 数量: 5 条
   - PROCESS-NAME, umamusume.exe
   - PROCESS-NAME, jp.co.cygames.umamusume
+  - DOMAIN-SUFFIX, omotenashi.cygames.jp
   - DOMAIN-SUFFIX, api-umamusume.cygames.jp
   - DOMAIN-SUFFIX, prd-storage-umamusume.akamaized.net
   - DOMAIN-SUFFIX, prd-storage-app-umamusume.akamaized.net
